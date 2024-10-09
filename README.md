@@ -25,6 +25,6 @@ Algumas tecnologias e ferramentas que uso e tenho conhecimento básico.
 <p align="center">
 <a href="https://github.com/gustavo-berti">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavo-berti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavo-berti&layout=compact&langs_count=8&theme=tokyonight&&hide=css"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavo-berti&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=ProjetoA"/>
 </a>
 </p>
