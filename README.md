@@ -1,7 +1,7 @@
 
 # Gustavo Gimenez Berti
 
-* Atualmente cursando Engenharia de Software 2/4
+* Atualmente cursando Engenharia de Software 3/4
 * Estudando ReactJs e Java
 
 
